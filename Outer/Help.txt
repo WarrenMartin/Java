@@ -1,0 +1,3 @@
+This is a file to understand how to create packages, packages is just a folder and it is called using the pakage keyword.
+
+make sure to compile package it iis not the normal way.
